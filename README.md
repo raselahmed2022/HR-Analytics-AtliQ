@@ -56,8 +56,8 @@ Includes attributes such as employee ID, attendance %, WFH %, and SL %
 
 (Add 2–3 screenshots into a Screenshots folder and embed them here)
 
-![Dashboard Preview](Screenshots/hr-dashboard.png)
-
+### HR Attendance Insights
+![Dashboard Overview](OverView_screenshots.png)
 🚀 Business Impact
 
 Helps track attendance trends and identify critical HR issues
