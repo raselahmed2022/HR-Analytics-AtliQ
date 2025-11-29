@@ -1,61 +1,90 @@
-# HR-Analytics-AtliQ
-Power BI project analyzing HR data to visualize workforce trends and performance metrics.
+HR Analytics Dashboard — AtliQ
 
-# HR Analytics Dashboard – AtliQ
+A Power BI project analyzing HR data to visualize workforce trends and performance insights.
+Designed to support data-driven decisions for improved employee retention, productivity, and workforce planning.
 
-## 📊 Overview
-This project presents an interactive **HR Analytics Dashboard** built in **Power BI**.  
-It provides insights into key workforce metrics such as employee attrition, hiring trends, performance distribution, and overall workforce demographics.  
-The goal is to help HR teams make **data-driven decisions** to improve employee retention and organizational efficiency.
+📊 Key Insights & KPIs
 
----
+Attendance Rate: 91.8%
 
-## 🧠 Objectives
-- Understand and analyze employee data to identify HR trends.
-- Visualize key HR metrics for better strategic planning.
-- Improve reporting efficiency through automation and dashboards.
-- Demonstrate analytical and storytelling skills using business intelligence tools.
+Work-From-Home %: 10.0%
 
----
+Sick Leave %: 1.1%
 
-## 🛠️ Tools & Technologies
-- **Power BI** – for dashboard creation and visualization  
-- **Microsoft Excel** – for data preparation and cleaning  
-- **DAX (Data Analysis Expressions)** – for creating calculated measures and KPIs  
-- **Power Query** – for data transformation and modeling  
+Trends in employee participation across months
 
----
+Breakdown by department/region/employee type
 
-## 📈 Key Features
-- Interactive dashboard showing **attrition, hiring, and performance trends**
-- KPIs for **turnover rate**, **gender balance**, and **average tenure**
-- Automated data updates using **Power Query**
-- Dynamic filters for department, age group, and job role
-- Clean, user-friendly design for business users
+Identify teams with the highest absence & attrition risk
 
----
+🎯 Project Goals
 
-## 🔍 Insights Gained
-- Identified departments with high attrition rates  
-- Discovered patterns between experience level and retention  
-- Provided actionable insights to support HR strategy  
-- Showcased how data storytelling can enhance workforce management  
+Evaluate workforce performance & presence patterns
 
+Support HR in identifying improvement opportunities
 
-## 📚 Skills Demonstrated
-- Data visualization and storytelling  
-- HR data analysis  
-- Business intelligence and reporting  
-- Data modeling and DAX formulas  
-- Analytical thinking and insight generation  
+Enable informed HR policies using real-time insights
 
----
+🛠 Tools & Technologies
+Tool	Purpose
+Power BI	Dashboard creation & visualization
+DAX	Calculations & KPI measures
+Excel / CSV	Data source preparation
+🧠 Skills Demonstrated
 
-Rasal Miah 
-Bachelor of Science in Business Informatics  
-Erasmus+ Exchange Student at Thomas More University, Belgium  
+Data modeling
 
-www.linkedin.com/in/rasalmiah
+DAX formulas & custom measures
+
+ETL and data cleaning
+
+Data storytelling & visualization best practices
+
+📂 Project Structure
+HR-Analytics-AtliQ/
+│── HR-Analytics-AtliQ.pbix
+│── README.md
+│── Screenshots/
+
+📦 Dataset
+
+Contains anonymized HR presence & leave statistics (provided by AtliQ)
+
+Includes attributes such as employee ID, attendance %, WFH %, and SL %
+
+📸 Dashboard Preview
+
+(Add 2–3 screenshots into a Screenshots folder and embed them here)
+
+![Dashboard Preview](Screenshots/hr-dashboard.png)
+
+🚀 Business Impact
+
+Helps track attendance trends and identify critical HR issues
+
+Enables better workforce scheduling & cost optimization
+
+Improves decision-making around employee well-being
+
+🔮 Future Enhancements
+
+Add attrition prediction insights
+
+Connect a real data source using the  Power BI gateway
+
+Publish an interactive dashboard online
+
+📥 Download / View
+File	Link
+Power BI File (.pbix)	Add link after upload
+PDF report version	
+
+Rasal Miah
+Aspiring Data Engineer | Data Analytics Student|
+Erasmus Fellow student 
+📧 raselmiah9940@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/rasalmiah/
 
 
 ---
